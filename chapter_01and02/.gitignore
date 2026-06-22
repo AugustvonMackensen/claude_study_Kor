@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# uv / venv
+.venv/
+
+# 게임 기록 DB (로컬 데이터)
+omok.db
